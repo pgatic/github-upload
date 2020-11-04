@@ -5,7 +5,7 @@ function App() {
   console.log('app rendering');
   return (
     <div className="App">
-      <h1 className="text-success display-4">Quote machine</h1>
+      <h1 className="text-success display-4">Random quote machine</h1>
       <Quote />
     </div>
   );
