@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github-upload/static/css/main.b3fe0bbd.chunk.css",
+    "main.js": "/github-upload/static/js/main.b67ac1f6.chunk.js",
+    "main.js.map": "/github-upload/static/js/main.b67ac1f6.chunk.js.map",
+    "runtime-main.js": "/github-upload/static/js/runtime-main.442b809c.js",
+    "runtime-main.js.map": "/github-upload/static/js/runtime-main.442b809c.js.map",
+    "static/css/2.5215a033.chunk.css": "/github-upload/static/css/2.5215a033.chunk.css",
+    "static/js/2.f4d1041a.chunk.js": "/github-upload/static/js/2.f4d1041a.chunk.js",
+    "static/js/2.f4d1041a.chunk.js.map": "/github-upload/static/js/2.f4d1041a.chunk.js.map",
+    "static/js/3.db2b15a2.chunk.js": "/github-upload/static/js/3.db2b15a2.chunk.js",
+    "static/js/3.db2b15a2.chunk.js.map": "/github-upload/static/js/3.db2b15a2.chunk.js.map",
+    "index.html": "/github-upload/index.html",
+    "static/css/2.5215a033.chunk.css.map": "/github-upload/static/css/2.5215a033.chunk.css.map",
+    "static/css/main.b3fe0bbd.chunk.css.map": "/github-upload/static/css/main.b3fe0bbd.chunk.css.map",
+    "static/js/2.f4d1041a.chunk.js.LICENSE.txt": "/github-upload/static/js/2.f4d1041a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/github-upload/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.442b809c.js",
+    "static/css/2.5215a033.chunk.css",
+    "static/js/2.f4d1041a.chunk.js",
+    "static/css/main.b3fe0bbd.chunk.css",
+    "static/js/main.b67ac1f6.chunk.js"
+  ]
+}
